@@ -61,6 +61,12 @@ MQTT Topic   savonia/iot/temperature
 
 ![Screenshot 2026-03-16 213207](https://github.com/user-attachments/assets/aee1d649-eadc-4a02-bc66-c374cc3b4348)
 
+![Screenshot 2026-03-16 214509](https://github.com/user-attachments/assets/5290ad44-1ff0-4de9-8954-48eb919b37ae)
+
+![Screenshot 2026-03-16 214525](https://github.com/user-attachments/assets/08ca1bfa-4764-423a-97ed-96036dfe4026)
+
+
+
 Execution Order
 Laptop 1: Run subscriber.py
 
