@@ -30,7 +30,7 @@ graph LR
     A -- "Socket (Port 5005)" --> B
     B -- "MQTT (Port 1883)" --> C
     C -- "Subscribe" --> D
-
+```
 
 
 Lab Configuration
