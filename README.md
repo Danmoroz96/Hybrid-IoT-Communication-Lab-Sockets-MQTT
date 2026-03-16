@@ -9,7 +9,7 @@ This project demonstrates a three-tier IoT architecture simulating a sensor node
 
 The following diagram illustrates how data moves from the local sensor to the cloud:
 
-```mermaid
+```mermaid.js
 graph LR
     subgraph "Laptop 1 (Sensor Node)"
     A[socket_sensor.py]
