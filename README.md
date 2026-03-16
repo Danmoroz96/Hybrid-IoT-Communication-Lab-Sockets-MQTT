@@ -38,6 +38,8 @@ Lab Configuration
 
 
 Laptop 1 IP is 192.168.89.x (Client) or I used 0.0.0.0  or you can use Mobile Hotspot (Galaxy)
+
+
 Laptop 2 IP (Edge) 192.168.89.175 (or 192.168.123.175) 
 
 
